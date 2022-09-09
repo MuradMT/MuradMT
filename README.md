@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muradmt&label=Profile%20views&color=0e75b6&style=flat" alt="muradmt" /> </p>
 
-- 🌱 I’m currently learning **.NET Technologies**
+- 🌱 I’m currently learning **Game Development**
 
 - 📫 How to reach me **mammadzade03@gmail.com**
 
