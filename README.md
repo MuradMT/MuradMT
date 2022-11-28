@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murad</h1>
 <h3 align="center">A .NET Backend developer from Azerbaijan</h3>
-<h3 align="center"><a href="https://muradmt.github.io/HTML-Learning/">My personal information site</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muradmt&label=Profile%20views&color=0e75b6&style=flat" alt="muradmt" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Development**
