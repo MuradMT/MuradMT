@@ -15,7 +15,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
 <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" title="MsSql" alt="MsSql" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" title="VS" alt="VS" width="40" height="40"/>&nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" title="VS" alt="VS" width="50" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </p>
