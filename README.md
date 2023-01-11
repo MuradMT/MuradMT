@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murad</h1>
 <h3 align="center">A Software developer from Azerbaijan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muradmt&label=Profile%20views&color=0e75b6&style=flat" alt="muradmt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muradmt&label=Profile%20views&color=0e75b6&style=flat" alt="muradmt" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
