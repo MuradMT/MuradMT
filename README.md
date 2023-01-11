@@ -11,10 +11,11 @@
 <p>
 <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-<img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
+<img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" title="Dotnet" alt="Dotnet" width="50" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
 <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" title="MsSql" alt="MsSql" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" title="VS" alt="VS" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </p>
@@ -31,7 +32,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=MuradMT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Murad Mammadzada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuradMT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMT&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Murad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMT&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
