@@ -9,14 +9,16 @@
 ### 🚀 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/html.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="hhttps://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/css.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
 <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" title="Dotnet" alt="Dotnet" width="50" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
 <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" title="MsSql" alt="MsSql" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" title="VS" alt="VS" width="50" height="40"/>&nbsp;
+<img src="[https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/ides/vs-studio.svg)" title="VS" alt="VS" width="50" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1QzMcvWvOgXqgqyD7z1euhr7g_n1R6BXbquHCrY&s" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
