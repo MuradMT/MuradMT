@@ -14,7 +14,6 @@
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg" title="JavaScript" alt="JavaScript"  width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" title="TypeScript" alt="TypeScript"  width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg" title="VueJS" alt="VueJS" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/java.svg" title="Java" alt="Java"  width="50" height="50"/>&nbsp;
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
 <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" title="Dotnet" alt="Dotnet" width="50" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
