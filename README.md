@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muradmt&label=Profile%20views&color=0e75b6&style=flat" alt="muradmt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muradmt" alt="muradmt" /></a> </p>
+</a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
