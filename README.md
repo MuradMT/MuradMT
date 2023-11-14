@@ -8,9 +8,9 @@
 
 </a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **.Net || C# ||Backend Development**
+- 💬 Ask me about **Web Development|| Programming**
 
 - 📫 How to reach me **mammadzade03@gmail.com**
 
