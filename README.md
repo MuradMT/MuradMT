@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **.Net Core || C# || Angular || Python**
+- 💬 Ask me about **.Net Core || C# || Python**
 
 - 📫 How to reach me **mammadzade03@gmail.com**
 
