@@ -8,7 +8,7 @@
 
 </a> </p>
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **essential concepts in Software Engineering**
 
 - 💬 Ask me about **C# <-> .Net Core || Java <-> Spring || Backend Development**
 
