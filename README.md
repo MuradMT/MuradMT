@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **.Net Core || C#**
+- 💬 Ask me about ** C# <-> .Net Core || Java <-> Spring || Backend Development **
 
 - 📫 How to reach me **mammadzade03@gmail.com**
 
