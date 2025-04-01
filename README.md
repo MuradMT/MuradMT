@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **essential concepts in Software Engineering**
 
-- 💬 Ask me about **C# <-> .Net Core || Java <-> Spring || Backend Development**
+- 💬 Ask me about **C# <-> .Net Core || Java <-> Spring || Nest JS || Backend Development**
 
 - 📫 How to reach me **mammadzade03@gmail.com**
 
